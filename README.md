@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
+[![Rank](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/musemosmouses/makefun-tagline/rank.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
+[![Reward](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/musemosmouses/makefun-tagline/reward.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
+
 # The make.fun Tagline
 
 Entry for the make.fun bounty
